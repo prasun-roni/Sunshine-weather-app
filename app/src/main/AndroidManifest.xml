@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-<!--        Theme.Sunshine-->
+<!--        Theme.Sunshine prasun here-->
         <activity
             android:name=".MainActivity"
             android:theme="@style/AppTheme.Forecast"
